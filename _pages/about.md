@@ -21,7 +21,7 @@ I am a incoming MS/PhD student at <a href="https://mip.postech.ac.kr/" style="co
 
 My primary research interest includes:
 - Computer Vision & Machine Learninng
-- Medical Imaging
+- Medical Image Analysis
 - Foundation Models
 
 
