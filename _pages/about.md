@@ -51,9 +51,9 @@ My primary research interest includes:
 
 # 📖 Educations
 - *2026.09 - Present*, M.S./Ph.D. in Graduate School of Artificial Intelligence, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
-- *2024.03 - 2026.08*, B.S. in Computer Science and Engineering, <a href="https://www.hufs.ac.kr/hufs/index.do" style="color: #7289da; text-decoration: none;">HUFS</a>.
+- *2024.03 - 2026.08*, B.S. in Computer Engineering, <a href="https://www.hufs.ac.kr/hufs/index.do" style="color: #7289da; text-decoration: none;">HUFS</a>.
 - *2020.09 - 2021.02*, B.S. in Computer Science, <a href="https://www.stonybrook.edu/" style="color: #7289da; text-decoration: none;">Stony Brook University</a>.
-- *2019.03 - 2020.08*, B.E. in Civil and Environmental Engineering, <a href="https://www.utah.edu/" style="color: #7289da; text-decoration: none;">University of Utah</a>.
+- *2019.03 - 2020.08*, B.S. in Civil and Environmental Engineering, <a href="https://www.utah.edu/" style="color: #7289da; text-decoration: none;">University of Utah</a>.
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
