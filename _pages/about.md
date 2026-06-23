@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a incoming MS/PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="none" style="color: #7289da; text-decoration:none">CV</a>.
+I am a incoming MS-PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="none" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interest includes:
 - Computer Vision & Machine Learninng
@@ -26,7 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🤘🤘 Excited to start my M.S./Ph.D. program at **POSTECH**! 
+- *2026.09*: &nbsp;🤘🤘 Excited to start my M.S.-Ph.D. program at **POSTECH**! 
 
 # 📝 Publications
 <table style="border-collapse:collapse; border:none; width:100%;">
@@ -50,7 +50,7 @@ My primary research interest includes:
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 
 # 📖 Educations
-- *2026.09 - Present*, M.S./Ph.D. in Graduate School of Artificial Intelligence, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
+- *2026.09 - Present*, M.S.-Ph.D. in Graduate School of Artificial Intelligence, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
 - *2024.03 - 2026.08*, B.S. in Computer Engineering, <a href="https://www.hufs.ac.kr/hufs/index.do" style="color: #7289da; text-decoration: none;">HUFS</a>.
 - *2020.09 - 2021.02*, B.S. in Computer Science, <a href="https://www.stonybrook.edu/" style="color: #7289da; text-decoration: none;">Stony Brook University</a>.
 - *2019.03 - 2020.08*, B.S. in Civil and Environmental Engineering, <a href="https://www.utah.edu/" style="color: #7289da; text-decoration: none;">University of Utah</a>.
