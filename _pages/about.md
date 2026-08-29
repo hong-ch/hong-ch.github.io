@@ -37,7 +37,7 @@ My primary research interest includes:
       </div>
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>LAMP-SAM2: Language-guided Automatic Multimodal Prompt Generation with SAM2 for Medical Image Segmentation</strong><br/>
+      <strong>LAMP: Language-guided Automatic Multimodal Prompt Generation for Foundation Model-based Medical Image Segmentation</strong><br/>
       <a href="https://about:blank">[paper]</a><br/>
       <strong>Changhee Hong</strong>*, Jaeyoon Sim*, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">UnderReview</span> 
@@ -51,7 +51,7 @@ My primary research interest includes:
 
 # 📖 Educations
 - *2026.09 - Present*, M.S.-Ph.D. in Artificial Intelligence, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
-- *2024.03 - 2026.08*, B.S. in Computer Engineering, <a href="https://www.hufs.ac.kr/hufs/index.do" style="color: #7289da; text-decoration: none;">HUFS</a>.
+- *2024.03 - 2026.08*, B.S. (*Summa Cum Laude*) in Computer Engineering, <a href="https://www.hufs.ac.kr/hufs/index.do" style="color: #7289da; text-decoration: none;">HUFS</a>.
 - *2020.09 - 2021.02*, B.S. in Computer Science, <a href="https://www.stonybrook.edu/" style="color: #7289da; text-decoration: none;">Stony Brook University</a>.
 - *2019.03 - 2020.08*, B.S. in Civil and Environmental Engineering, <a href="https://www.utah.edu/" style="color: #7289da; text-decoration: none;">University of Utah</a>.
 
